@@ -1,0 +1,12 @@
+.block-marker.TODO {
+    display: none;
+}
+
+.flashcards-nav {
+  display:none;
+}
+
+.white-theme,html[data-theme=light] {
+  --ls-page-inline-code-color:#EB5757;
+  --ls-page-inline-code-bg-color:rgba(135,131,120,0.15);
+}
