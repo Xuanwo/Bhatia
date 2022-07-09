@@ -5,4 +5,5 @@
   	console.log(poo)
   }
   ```
-- The above is some Javascropt
+- The above is some Javascript
+-
