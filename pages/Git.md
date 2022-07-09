@@ -1,0 +1,2 @@
+- Git is going to keep track of all your files
+- `git init` - create your repo

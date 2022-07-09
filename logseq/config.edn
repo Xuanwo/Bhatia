@@ -174,7 +174,7 @@
 
  :ref/linked-references-collapsed-threshold 50
  :feature/enable-timetracking? false
- :favorites ["test"]
+ :favorites ["Git"]
  :publishing/all-pages-public? true
  :feature/enable-journals? false
 
